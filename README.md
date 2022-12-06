@@ -1,6 +1,7 @@
 - Hi, I’m @leshec
-- I’m interested in all things coding
-- I’m currently learning Linux, neo-vim
+- Wish I could code all day
+- I’m currently learning some bash, neo-vim config stuff, Javascript and the web, interested in Rust
+- I will build that robot soon :robotface:
 
 <!---
 leshec/leshec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
