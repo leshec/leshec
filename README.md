@@ -1,6 +1,6 @@
 - Hi, I’m @leshec
 - Wish I could code all day
-- I’m currently learning some linux, neo-vim config stuff, Javascript and the web, interested in Rust
+- I’m currently learning some linux, neo-vim config stuff, Rust, the web stuff can wait.
 - I will build that robot :robot:
 
 <!---
