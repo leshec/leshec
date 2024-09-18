@@ -1,5 +1,5 @@
 - Hi, I’m @leshec
-- I’m currently learning basic web dev, rust and neovim
+- I’m currently learning web dev, rust and neovim
 - I will build that robot :robot:
 
 <!---
