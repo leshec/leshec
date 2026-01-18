@@ -1,8 +1,5 @@
 - Hi, I’m @leshec
-- I’m currently learning web dev, rust and neovim
-- I will build that robot :robot:
+- I’m currently making a saas webapp for schools, colleges and universities to speed up data collection and feedback to students and cut workload for staff.
 
-<!---
-leshec/leshec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
